@@ -1,0 +1,39 @@
+.all{
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  font-family:sans-serif;
+}
+figure{
+  float: right;
+ 
+
+}
+table,tr,th{
+  border: 1px solid black;
+}
+h1,h2,h3{
+  color: black;
+  margin-top: 1.5em;
+position: static;}
+figcaption{
+  font-style: italic;
+  clear: right;
+  text-align: center;
+
+}
+img{
+  border-radius: 15%;
+}
+.lut > img{
+ margin-top: -45px;
+ 
+
+}
+body{
+  background-color:(white);
+}
+table{
+  background-color: rgba(22, 218, 110, 0.205);
+}
+
